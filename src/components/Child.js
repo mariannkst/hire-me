@@ -1,5 +1,7 @@
 
 
+// This element was important during the development process, not needed any more.
+
 const Child = () => {
 
     return(

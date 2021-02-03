@@ -3,9 +3,9 @@ const Navbar = () => {
 
     return(
         
-    <nav class="navbar navbar-light bg-light">
-        <div class="container-fluid">
-          <strong><a class="navbar-brand" href="#">FAMLY: HIRE-ME APP</a></strong>
+    <nav className="navbar navbar-light bg-light">
+        <div className="container-fluid">
+          <strong><a className="navbar-brand" href="#">FAMLY: HIRE-ME APP</a></strong>
         </div>
     </nav>
     

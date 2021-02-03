@@ -1,5 +1,3 @@
-
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -62,8 +60,15 @@ h1 {
   text-align: center;
 }
 
+.card-text.question {
+  margin-bottom: 0px;
+}
+
 .card.faded {
-  background-color: rgb(218, 218, 218);
+  background-color: rgba(218, 218, 218, 0.5);
+}
+
+.card.faded .card-title, .card.faded .card-text{
   opacity: 50%;
 }
 
@@ -86,6 +91,7 @@ button:hover {
   background-color: rgb(91, 158, 202);
 }
 
-.card:hover {
-  background-color: rgb(236, 236, 236);
+.btnCheckIn {
+  margin-top: 20px;
 }
+

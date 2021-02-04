@@ -3,10 +3,12 @@ REACT APPLICATION FOR HANDLING DATA OF CHILDREN AT THE DAYCARE
 
 
 PURPOSE
+
 It is a test project for application purposes at Famly
 
 
 DESCRIPTION
+
 It is a single-page React application, created with React.js version 17.0.1.
 
 Beside React, Bootstrap was installed in order to handle the simple design part of the app.
